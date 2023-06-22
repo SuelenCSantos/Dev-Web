@@ -1,0 +1,101 @@
+{
+  "logins": [
+    {
+      "id": "jean.lopes@ulife.com.br",
+      "idCliente": 1,
+      "password": "1234"
+    },
+    {
+      "id": "Suelen2@gmail.com",
+      "idCliente": 2,
+      "password": "12345"
+    },
+    {
+      "id": "Suelen@gmail.com",
+      "idCliente": 3,
+      "password": "12345"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Jean",
+      "email": "jean.lopes@ulife.com.br",
+      "telefone": "1231312312",
+      "cpf": "12313123123123",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "nome": "Suelen2",
+      "email": "Suelen2@gmail.com",
+      "telefone": "(22)22222-2222",
+      "cpf": "222.222.222-22",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "nome": "suelen",
+      "email": "suelen@gmail.com",
+      "telefone": "(51)99999-9999",
+      "cpf": "888.888.888-88",
+      "password": "12345"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "O Poderoso Chefão",
+      "ano": 1972,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "O Poderoso Chefão II",
+      "ano": 1974,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "O Poderoso Chefão III",
+      "ano": 1990,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Al Pacino",
+        "Diane Keaton",
+        "Andy Garcia"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Cassino",
+      "ano": 1990,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Diane Keaton",
+        "Andy Garcia"
+      ]
+    }
+  ],
+  "generos": [
+    "Drama",
+    "Comédia",
+    "Ação",
+    "Terror",
+    "Suspense"
+  ]
+}
